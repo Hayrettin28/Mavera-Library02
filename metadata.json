@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Copy of Mavera Kütüphane",
+  "description": "Modern, yapay zeka destekli kütüphane yönetim sistemi.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
